@@ -1,4 +1,4 @@
-<img width="271" height="389" alt="image" src="https://github.com/user-attachments/assets/3ce43381-43a1-4575-b358-35fb1fc599e2" />**🚗 New-Wheels Quarterly Business Analysis **
+**🚗 New-Wheels Quarterly Business Analysis**
 
 **📌 Context**
 Owning a vehicle is a shared aspiration worldwide, and many customers now prefer pre-owned vehicles due to affordability. However, concerns about after-sales service quality remain high.
